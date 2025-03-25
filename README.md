@@ -1,6 +1,6 @@
 # Room 62 - 2D Horror Adventure RPG
 ## Game Overview
-![Main Menu](/Main-Menu.jpg)   
+![Main Menu](/MainMenu.jpg)   
 **Room 62** is a spine-chilling 2D horror adventure RPG set in the abandoned **Red Manor Hotel**, infamous for supernatural experiments and mysterious disappearances. Players take on the role of **Stacy**, a determined investigator who must uncover the hotel's dark secrets by solving puzzles, interacting with cryptic NPCs, and engaging in strategic combat.
 
 ## Features
