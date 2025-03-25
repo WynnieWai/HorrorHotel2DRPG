@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 4263f06d7309865439d77e96b0e43ee8
+  - enabled: 1
+    path: Assets/Scenes/The Lobby.unity
+    guid: 9305b144832294c4b81b3a3041d46f1d
+  - enabled: 1
+    path: Assets/Scenes/The Hotel Corridor.unity
+    guid: ddc6923551aebc84a96070635c28e582
+  - enabled: 1
+    path: Assets/Scenes/The Bar and Louge.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/The Secret Room.unity
+    guid: 29ac1731d31c1a7448c97edd498578bd
+  - enabled: 0
+    path: Assets/Scenes/The Guest Room.unity
+    guid: cb12251a174bb22499ab0ca209c91a4f
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 589acfed99dee3c4b83a5f2406676942, type: 2}
