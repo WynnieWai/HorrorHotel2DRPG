@@ -1,5 +1,6 @@
 # Room 62 - 2D Horror Adventure RPG
 ## Game Overview
+![Main Menu](https://drive.google.com/file/d/1ydQoGjOP0kDOMb7cQXqMWa551UnDLudp/view?usp=sharing)   
 **Room 62** is a spine-chilling 2D horror adventure RPG set in the abandoned **Red Manor Hotel**, infamous for supernatural experiments and mysterious disappearances. Players take on the role of **Stacy**, a determined investigator who must uncover the hotel's dark secrets by solving puzzles, interacting with cryptic NPCs, and engaging in strategic combat.
 
 ## Features
@@ -59,7 +60,10 @@
 ### How to Run
 1.	Download the game from the **Build App** link.  
 2.	Extract the files and run **Final Project 2D RPG.exe**.  
-3.	Adjust the screen scaling if necessary (refer to the Gameplay Video for reference).  
+3.	Adjust the screen scaling if necessary (refer to the Gameplay Video for reference).
+
+### Game Engine
+Created with **Unity**, offering a powerful environment for 2D and 3D game development.
 
 
 
