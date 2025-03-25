@@ -53,7 +53,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;o **Game Over**: [YouTube Link](https://www.youtube.com/watch?v=sq2FYgb8TOY)
 
 ### Project Links
-•	**Build App**: [Download Link](https://drive.google.com/drive/folders/1tsXR4Re2IQT_-KUNxbbBPOC8-aajQ3KP?usp=sharing)
+•	**Build App**: [Download Link](https://drive.google.com/drive/folders/1tsXR4Re2IQT_-KUNxbbBPOC8-aajQ3KP?usp=sharing)  
 •	**Gameplay Video**: [Watch Here](https://drive.google.com/drive/folders/1gGN6NGF46s1f20cxflW7GPwXENrtnETa?usp=sharing)  
 
 ### How to Run
