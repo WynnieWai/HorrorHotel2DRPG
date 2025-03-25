@@ -58,7 +58,7 @@
 
 ### How to Run
 1.	Download the game from the **Build App** link.  
-2.	Extract the files and run **Final Project 2D RPG**.  
+2.	Extract the files and run **Final Project 2D RPG.exe**.  
 3.	Adjust the screen scaling if necessary (refer to the Gameplay Video for reference).  
 
 
